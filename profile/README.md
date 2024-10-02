@@ -8,4 +8,6 @@
   </samp>
 </p>
 
-<img src='https://github.com/user-attachments/assets/3234fd12-7399-46d4-9bab-e2891d83fa95' alt='Minekube logo'/>
+<a href="https://connect.minekube.com">
+    <img src='https://github.com/user-attachments/assets/3234fd12-7399-46d4-9bab-e2891d83fa95' alt='Minekube logo'/>
+  </a>
